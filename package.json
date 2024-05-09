@@ -8,7 +8,7 @@
     "src"
   ],
   "engines": {
-    "node": ">=20"
+    "node": ">=18"
   },
   "scripts": {
     "start": "tsdx watch",
@@ -33,7 +33,7 @@
   "name": "@bigtechbro/nestjs-html-pdf",
   "module": "dist/nestjs-html-pdf.esm.js",
   "description": "A NestJS module to generate PDF files from HTML",
-  "author": "Ifeanyi Amadi <helloamadiify@gmail.com> (https://github.com/line33), Saúl Escandon <e.m.saul.angel@gmail.com> (https://github.com/saemhco)",
+  "author": "Ifeanyi Amadi <helloamadiify@gmail.com> (https://github.com/line33)",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/line33/nestjs-html-pdf.git"
